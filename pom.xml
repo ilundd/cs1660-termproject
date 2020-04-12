@@ -94,6 +94,11 @@
 	    <artifactId>jsch</artifactId>
 	    <version>0.1.55</version>
 	</dependency>
+	<dependency>
+		<groupId>org.unix4j</groupId>
+		<artifactId>unix4j-command</artifactId>
+		<version>0.5</version>
+	</dependency>
   </dependencies>
 </project>
 

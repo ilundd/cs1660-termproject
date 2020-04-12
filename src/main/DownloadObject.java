@@ -25,9 +25,10 @@ public class DownloadObject {
 		blob.downloadTo(destFilePath);
 		System.out.println("Downloaded object "
 								+ objectName
-								+ " from bucket name "
+								+ "\n from bucket name \n"
 								+ bucketName
-								+ " to "
-								+ destFilePath);
+								+ "\n to \n"
+								+ destFilePath
+								+ "\n");
 	}
 }

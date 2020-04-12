@@ -26,9 +26,10 @@ public class UploadObject {
 		
 		System.out.println("File " 
 								+ filePath 
-								+ " uploaded to bucket " 
-								+ bucketName + " as " 
-								+ objectName);
+								+ "\n uploaded to bucket \n" 
+								+ bucketName + "\n as \n" 
+								+ objectName
+								+ "\n");
 	}
 	
 }
