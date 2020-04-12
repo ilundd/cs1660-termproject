@@ -13,3 +13,5 @@ I added logging in System.out for file upload, job status, file merging, and dow
 I added extracting and uploading to cluster functionality
 
 I added downloading of fullinvertedindex from cluster
+
+I implemented Term search
